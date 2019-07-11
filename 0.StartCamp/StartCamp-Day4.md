@@ -308,6 +308,24 @@ def lotto_result():
 
 
 
+## Ngrok
+
+다른 사람들에게 서버를 공유해주는 프로그램
+
+git bash를 통해서 만든 웹사이트를 공유해주고 Ngrok을 실행시키면 다른 사람들에게 공유해 줄 수 있다.
+
+
+
+## JSON - WIKI
+
+**JSON**(**제이슨**[[1\]](https://ko.wikipedia.org/wiki/JSON#cite_note-Pronunciation-1), JavaScript Object Notation)은 [속성-값 쌍](https://ko.wikipedia.org/w/index.php?title=속성-값_쌍&action=edit&redlink=1)( attribute–value pairs and array data types (or any other serializable value)) 또는 "키-값 쌍"으로 이루어진 데이터 오브젝트를 전달하기 위해 인간이 읽을 수 있는 텍스트를 사용하는 [개방형 표준](https://ko.wikipedia.org/wiki/개방형_표준) 포맷이다. 비동기 브라우저/서버 통신 ([AJAX](https://ko.wikipedia.org/wiki/Ajax))을 위해, 넓게는 [XML](https://ko.wikipedia.org/wiki/XML)([AJAX](https://ko.wikipedia.org/wiki/Ajax)가 사용)을 대체하는 주요 데이터 포맷이다. 특히, [인터넷](https://ko.wikipedia.org/wiki/인터넷)에서 자료를 주고 받을 때 그 자료를 표현하는 방법으로 알려져 있다. 자료의 종류에 큰 제한은 없으며, 특히 [컴퓨터 프로그램](https://ko.wikipedia.org/wiki/컴퓨터_프로그램)의 [변수](https://ko.wikipedia.org/wiki/변수)값을 표현하는 데 적합하다.
+
+본래는 [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트) 언어로부터 파생되어 [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트)의 구문 형식을 따르지만 언어 독립형 데이터 포맷이다. 즉, [프로그래밍 언어](https://ko.wikipedia.org/wiki/프로그래밍_언어)나 [플랫폼](https://ko.wikipedia.org/wiki/컴퓨팅_플랫폼)에 독립적이므로, [구문 분석](https://ko.wikipedia.org/wiki/구문_분석) 및 JSON 데이터 생성을 위한 코드는 [C](https://ko.wikipedia.org/wiki/C_(프로그래밍_언어)), [C++](https://ko.wikipedia.org/wiki/C%2B%2B), [C#](https://ko.wikipedia.org/wiki/C_샤프), [자바](https://ko.wikipedia.org/wiki/자바_(프로그래밍_언어)), [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트), [펄](https://ko.wikipedia.org/wiki/펄), [파이썬](https://ko.wikipedia.org/wiki/파이썬) 등 수많은 [프로그래밍 언어](https://ko.wikipedia.org/wiki/프로그래밍_언어)에서 쉽게 이용할 수 있다.
+
+JSON 포맷은 본래 [더글라스 크록포드](https://ko.wikipedia.org/w/index.php?title=더글라스_크록포드&action=edit&redlink=1)가 규정하였다. RFC 7159와 ECMA-404라는 두 개의 경쟁 표준에 의해 기술되고 있다. ECMA 표준은 문법만 정의할 정도로 최소한으로만 정의되어 있는 반면 RFC는 시맨틱, 보안적 고려 사항을 일부 제공하기도 한다.[[2\]](https://ko.wikipedia.org/wiki/JSON#cite_note-2) JSON의 공식 인터넷 미디어 타입은 `application/json`이며, JSON의 파일 확장자는 `.json`이다.
+
+파일 전송 포맷!
+
 
 
 ## 코드

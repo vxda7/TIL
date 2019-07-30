@@ -1,4 +1,4 @@
-# HTML 190729 what is html
+# Web 190729 HTML
 
 Hyper Text Markup Language : 웹페이지를 작성하기 위한 역할표시 언어!
 

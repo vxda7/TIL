@@ -104,3 +104,4 @@ workshop 폴더로 이동
 `python manage.py runserver`
 
 `django-admin startapp pages`
+

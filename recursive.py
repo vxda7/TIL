@@ -4,18 +4,9 @@ def mul(a, b):
     else:
         b-=1
         a*=mul(a,b)
+        return a
     
-
-
-result=[]
 for i in range(10):
     numbers = int(input())
-
     gets = list(map(int,input().split()))
-    result.append(mul(gets[0], gets[1]))
-
-#출력
-cnt=1
-for res in result:
-    print(f"#{cnt} {res}")
-    cnt+=1
+    print("#{0} {1}".format(i+1,mul(gets[0], gets[1])))

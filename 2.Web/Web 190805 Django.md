@@ -97,6 +97,8 @@ workshop 폴더로 이동
 
 `python -m venv venv`
 
+interpreter 가상환경으로 변경
+
 `pip install django`
 
 `django-admin startproject classroom .` 
